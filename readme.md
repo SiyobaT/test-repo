@@ -1,3 +1,3 @@
 # Demo
 
-studio discriptiom
+studio discription!
